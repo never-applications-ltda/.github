@@ -16,7 +16,7 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ---
 
 
-##💡 O que oferecemos
+## 💡 O que oferecemos
 
 - ⚙️ **Automação inteligente** — simplifique processos e reduza tarefas manuais.
 
@@ -31,7 +31,7 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ---
 
 
-##🌟 Diferenciais da Never
+## 🌟 Diferenciais da Never
 
 - **Eficiência:** ferramentas projetadas para otimizar a administração.
 
@@ -52,7 +52,7 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ---
 
 
-🌐 Conecte-se com a Never
+## 🌐 Conecte-se com a Never
 
 - 🎮 Discord: [neverapplications](https://discord.gg/neverapplications)
 
