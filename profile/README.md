@@ -47,14 +47,14 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ## 📌 Informações da Empresa
 
 - **CNPJ:** Em breve
-- **Site Oficial:** [neverapplications.com.br
+- **Site Oficial:** [neverapplications.com.br](https//neverapplications.com.br)
 
 ---
 
 
 ## 🌐 Conecte-se com a Never
 
-- 🎮 Discord: [neverapplications](https://discord.gg/neverapplications)
+- 🎮 Discord: [neverapplicatbreve(https://discord.gg/neverapplications)
 
 - 📸 Instagram: Em breve
 
